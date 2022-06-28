@@ -1,6 +1,6 @@
 # MyBio
-# Latihan Fragment
-## android studio : java
+# Fragment
+## android studio : kotlin
 ### Fahreza Ditya Alfandry 19 / XI RPL 3
 
 ## Splash screen
